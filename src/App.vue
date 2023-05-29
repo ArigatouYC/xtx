@@ -1,9 +1,11 @@
 <script setup>
+
 </script>
 
 <template>
   <el-button type="warning">Warning</el-button>
   <el-button type="primary">Primary</el-button>
+  <RouterView/>
 </template>
 
 <style scoped>
